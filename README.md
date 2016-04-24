@@ -1,6 +1,8 @@
 # cc150
--bit manipulation
 -stacks
+
+-bit manipulations
+
 -queues
--trees
+
 -graphs
